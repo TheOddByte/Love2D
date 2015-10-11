@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://imgur.com/c9KGgDO" alt="LÖVE"/>
+  <img src="http://i.imgur.com/c9KGgDO.png" alt="LÖVE"/>
 </p>
 Here you can find all my LÖVE stuff
 
